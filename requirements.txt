@@ -5,3 +5,4 @@ openpyxl
 plotly>=5.0.0
 streamlit>=1.0.0
 pandas>=1.0.0
+streamlit-option-menu>=3.0.0
