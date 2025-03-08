@@ -1,6 +1,8 @@
 # First Project of Data Sweeper App in Streamlit Python by Shumaila Aijaz. Part of Growth Mindset. 
 # This is the Home Page of the App.
 import streamlit as st
+import pandas as pd
+import plotly.express as px 
 
 # Page Configurations   
 st.set_page_config(
