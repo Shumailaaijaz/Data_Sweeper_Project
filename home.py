@@ -74,8 +74,7 @@ if st.button("🧹 Start Cleaning Now →",
             help="Click to go to Data Sweeper App"):
     st.switch_page("pages/data_sweeper.py")  # Assuming your main app is in pages directory
 
-# Or alternatively using markdown with proper page routing
-# st.page_link("pages/data_sweeper.py", label="🧹 Start Cleaning Now →", 
+ 
 #             icon="🧹", use_container_width=True)
 
 # Footer remains the same...
